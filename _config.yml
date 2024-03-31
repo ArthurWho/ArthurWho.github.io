@@ -9,24 +9,25 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Cyber Who # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: CyberSec | CTFs Writeups | Purple Team Content # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  
+"Unraveling Cyber Mysteries: Your Guide to CTFs, Walkthroughs, and Beyond!"
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://CyberWho.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: ArthurWho # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -39,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/ArthurWho # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
