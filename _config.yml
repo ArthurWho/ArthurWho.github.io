@@ -18,9 +18,7 @@ title: Cyber Who # the main title
 
 tagline: CyberSec | CTFs Writeups | Purple Team Content # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  
-"Unraveling Cyber Mysteries: Your Guide to CTFs, Walkthroughs, and Beyond!"
+description: "Unraveling Cyber Mysteries Your Guide to CTFs, Walkthroughs, and Beyond!"
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
